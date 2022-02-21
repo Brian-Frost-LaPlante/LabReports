@@ -1,0 +1,13 @@
+load("Bscan_e1r13_probe.mat","im");
+load("R13AvDepth.mat","Averaged_depth");
+IG = im2gray(im);
+figure; subplot(3,3,[1,4,7]);
+imagesc(IG(1:300,:)); colormap(gray);
+pbaspect([100,300*2.7,1]);
+hold on; plot([1875 1875],[0,300],'r');
+subplot(3,3,[2,5,8]);
+semilogx(IG(1:300,1875),1:300);
+set(gca,'YDir','reverse');
+subplot(3,3,[3,6,9]);
+semilogx(Averaged_depth(1:300),1:300);
+set(gca,'YDir','reverse');
