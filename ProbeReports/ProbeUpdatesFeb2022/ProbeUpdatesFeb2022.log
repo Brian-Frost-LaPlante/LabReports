@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.2.20)  21 FEB 2022 21:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.2.21)  22 FEB 2022 18:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -368,170 +368,176 @@ LaTeX Info: Redefining \nameref on input line 21.
 \@outlinefile=\write3
 \openout3 = `ProbeUpdatesFeb2022.out'.
 
-<Data for Probe Writeup/10 kHz.jpg, id=91, 511.6716pt x 382.3083pt>
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
+<Data for Probe Writeup/10 kHz.jpg, id=120, 511.6716pt x 382.3083pt>
 File: Data for Probe Writeup/10 kHz.jpg Graphic file (type jpg)
 <use Data for Probe Writeup/10 kHz.jpg>
 Package pdftex.def Info: Data for Probe Writeup/10 kHz.jpg  used on input line 
-68.
+76.
 (pdftex.def)             Requested size: 171.99922pt x 128.51305pt.
- [1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-<Data for Probe Writeup/28 kHz.jpg, id=109, 565.1514pt x 426.393pt>
+<Data for Probe Writeup/28 kHz.jpg, id=121, 565.1514pt x 426.393pt>
 File: Data for Probe Writeup/28 kHz.jpg Graphic file (type jpg)
 <use Data for Probe Writeup/28 kHz.jpg>
 Package pdftex.def Info: Data for Probe Writeup/28 kHz.jpg  used on input line 
-74.
+82.
 (pdftex.def)             Requested size: 171.99922pt x 129.76665pt.
-<Data for Probe Writeup/76 kHz.jpg, id=110, 639.5895pt x 484.209pt>
-File: Data for Probe Writeup/76 kHz.jpg Graphic file (type jpg)
-<use Data for Probe Writeup/76 kHz.jpg>
-Package pdftex.def Info: Data for Probe Writeup/76 kHz.jpg  used on input line 
-80.
-(pdftex.def)             Requested size: 171.99922pt x 130.2136pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Data for Probe Writeup/circuit.jpg, id=111, 755.4624pt x 534.798pt>
+<Data for Probe Writeup/76 kHz.jpg, id=122, 639.5895pt x 484.209pt>
+File: Data for Probe Writeup/76 kHz.jpg Graphic file (type jpg)
+<use Data for Probe Writeup/76 kHz.jpg>
+Package pdftex.def Info: Data for Probe Writeup/76 kHz.jpg  used on input line 
+88.
+(pdftex.def)             Requested size: 171.99922pt x 130.2136pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Data for Probe Writeup/circuit.jpg, id=123, 755.4624pt x 534.798pt>
 File: Data for Probe Writeup/circuit.jpg Graphic file (type jpg)
 <use Data for Probe Writeup/circuit.jpg>
 Package pdftex.def Info: Data for Probe Writeup/circuit.jpg  used on input line
- 90.
+ 98.
 (pdftex.def)             Requested size: 258.00539pt x 182.64494pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Data for Probe Writeup/Terminal at Startup.png, id=112, 737.00343pt x 385.44pt
+<Data for Probe Writeup/Terminal at Startup.png, id=124, 737.00343pt x 385.44pt
 >
 File: Data for Probe Writeup/Terminal at Startup.png Graphic file (type png)
 <use Data for Probe Writeup/Terminal at Startup.png>
 Package pdftex.def Info: Data for Probe Writeup/Terminal at Startup.png  used o
-n input line 101.
+n input line 109.
 (pdftex.def)             Requested size: 258.00539pt x 134.92953pt.
-[2 <./Data for Probe Writeup/10 kHz.jpg> <./Data for Probe Writeup/28 kHz.jpg>]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Data for Probe Writeup/spec location.png, id=120, 566.86781pt x 384.6872pt>
+<Data for Probe Writeup/spec location.png, id=126, 566.86781pt x 384.6872pt>
 File: Data for Probe Writeup/spec location.png Graphic file (type png)
 <use Data for Probe Writeup/spec location.png>
 Package pdftex.def Info: Data for Probe Writeup/spec location.png  used on inpu
-t line 111.
+t line 119.
 (pdftex.def)             Requested size: 258.00539pt x 175.09164pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Data for Probe Writeup/BMode Probe.png, id=121, 555.57562pt x 322.20375pt>
+<Data for Probe Writeup/BMode Probe.png, id=127, 555.57562pt x 322.20375pt>
 File: Data for Probe Writeup/BMode Probe.png Graphic file (type png)
 <use Data for Probe Writeup/BMode Probe.png>
 Package pdftex.def Info: Data for Probe Writeup/BMode Probe.png  used on input 
-line 121.
+line 129.
 (pdftex.def)             Requested size: 258.00539pt x 149.63145pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Data for Probe Writeup/BScan location.png, id=122, 601.4972pt x 384.6872pt>
+<Data for Probe Writeup/BScan location.png, id=128, 601.4972pt x 384.6872pt>
 File: Data for Probe Writeup/BScan location.png Graphic file (type png)
 <use Data for Probe Writeup/BScan location.png>
 Package pdftex.def Info: Data for Probe Writeup/BScan location.png  used on inp
-ut line 127.
+ut line 135.
 (pdftex.def)             Requested size: 258.00539pt x 165.0131pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Data for Probe Writeup/ShowProbeBScan operation.png, id=123, 505.13719pt x 123
+<Data for Probe Writeup/ShowProbeBScan operation.png, id=129, 505.13719pt x 123
 .46124pt>
 File: Data for Probe Writeup/ShowProbeBScan operation.png Graphic file (type pn
 g)
 <use Data for Probe Writeup/ShowProbeBScan operation.png>
 Package pdftex.def Info: Data for Probe Writeup/ShowProbeBScan operation.png  u
-sed on input line 133.
+sed on input line 141.
 (pdftex.def)             Requested size: 258.00539pt x 63.06046pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Data for Probe Writeup/BScan fig update.png, id=124, 274.02374pt x 496.10344pt
+<Data for Probe Writeup/BScan fig update.png, id=130, 274.02374pt x 496.10344pt
 >
 File: Data for Probe Writeup/BScan fig update.png Graphic file (type png)
 <use Data for Probe Writeup/BScan fig update.png>
 Package pdftex.def Info: Data for Probe Writeup/BScan fig update.png  used on i
-nput line 139.
+nput line 147.
 (pdftex.def)             Requested size: 258.00539pt x 467.1397pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Data for Probe Writeup/ThorImage settings for BScan.png, id=125, 407.27156pt x
+<Data for Probe Writeup/ThorImage settings for BScan.png, id=131, 407.27156pt x
  437.38406pt>
 File: Data for Probe Writeup/ThorImage settings for BScan.png Graphic file (typ
 e png)
 <use Data for Probe Writeup/ThorImage settings for BScan.png>
 Package pdftex.def Info: Data for Probe Writeup/ThorImage settings for BScan.pn
-g  used on input line 155.
+g  used on input line 163.
 (pdftex.def)             Requested size: 258.00539pt x 277.09508pt.
+[3 <./Data for Probe Writeup/10 kHz.jpg>]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Data for Probe Writeup/SNRcomp.png, id=126, 1648.65938pt x 1222.5675pt>
+<Data for Probe Writeup/SNRcomp.png, id=138, 1648.65938pt x 1222.5675pt>
 File: Data for Probe Writeup/SNRcomp.png Graphic file (type png)
 <use Data for Probe Writeup/SNRcomp.png>
 Package pdftex.def Info: Data for Probe Writeup/SNRcomp.png  used on input line
- 175.
+ 183.
 (pdftex.def)             Requested size: 430.00462pt x 318.86742pt.
-[3 <./Data for Probe Writeup/76 kHz.jpg> <./Data for Probe Writeup/circuit.jpg>
-]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Data for Probe Writeup/Data 2022-2-17/BScan v AScan.png, id=133, 1194.71344pt 
+<Data for Probe Writeup/Data 2022-2-17/BScan v AScan.png, id=139, 1194.71344pt 
 x 761.09344pt>
 File: Data for Probe Writeup/Data 2022-2-17/BScan v AScan.png Graphic file (typ
 e png)
 <use Data for Probe Writeup/Data 2022-2-17/BScan v AScan.png>
 Package pdftex.def Info: Data for Probe Writeup/Data 2022-2-17/BScan v AScan.pn
-g  used on input line 186.
+g  used on input line 194.
 (pdftex.def)             Requested size: 430.00462pt x 273.93536pt.
+[4 <./Data for Probe Writeup/28 kHz.jpg> <./Data for Probe Writeup/76 kHz.jpg>]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 191.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 199.
 
-Overfull \vbox (50.34996pt too high) has occurred while \output is active []
+Overfull \vbox (57.90326pt too high) has occurred while \output is active []
 
 
-[4 <./Data for Probe Writeup/Terminal at Startup.PNG> <./Data for Probe Writeup
-/spec location.PNG>] [5 <./Data for Probe Writeup/BMode Probe.PNG> <./Data for 
-Probe Writeup/BScan location.PNG> <./Data for Probe Writeup/ShowProbeBScan oper
-ation.PNG>] [6 <./Data for Probe Writeup/BScan fig update.PNG>] [7 <./Data for 
-Probe Writeup/ThorImage settings for BScan.PNG>] [8 <./Data for Probe Writeup/S
-NRcomp.png (PNG copy)>] [9 <./Data for Probe Writeup/Data 2022-2-17/BScan v ASc
-an.png (PNG copy)>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 191.
- (./ProbeUpdatesFeb2022.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 191.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 191.
+[5 <./Data for Probe Writeup/circuit.jpg> <./Data for Probe Writeup/Terminal at
+ Startup.PNG>] [6 <./Data for Probe Writeup/spec location.PNG> <./Data for Prob
+e Writeup/BMode Probe.PNG>] [7 <./Data for Probe Writeup/BScan location.PNG> <.
+/Data for Probe Writeup/ShowProbeBScan operation.PNG>] [8 <./Data for Probe Wri
+teup/BScan fig update.PNG>] [9 <./Data for Probe Writeup/ThorImage settings for
+ BScan.PNG>] [10 <./Data for Probe Writeup/SNRcomp.png (PNG copy)>] [11 <./Data
+ for Probe Writeup/Data 2022-2-17/BScan v AScan.png (PNG copy)>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 199.
+
+(./ProbeUpdatesFeb2022.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 199.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 199.
 Package rerunfilecheck Info: File `ProbeUpdatesFeb2022.out' has not changed.
-(rerunfilecheck)             Checksum: A3E367961B6F8FEC8DC881755BC3FDFF;1364.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 191.
+(rerunfilecheck)             Checksum: 6FA0B79BC5A37C8C2C1C7945451E99AE;1291.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 199.
  ) 
 Here is how much of TeX's memory you used:
- 6482 strings out of 483107
- 99287 string characters out of 5964630
- 363445 words of memory out of 5000000
- 21350 multiletter control sequences out of 15000+600000
- 534791 words of font info for 32 fonts, out of 8000000 for 9000
- 59 hyphenation exceptions out of 8191
+ 6486 strings out of 483140
+ 99316 string characters out of 5965151
+ 363369 words of memory out of 5000000
+ 21349 multiletter control sequences out of 15000+600000
+ 535245 words of font info for 34 fonts, out of 8000000 for 9000
+ 36 hyphenation exceptions out of 8191
  34i,6n,29p,758b,346s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share
-/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on ProbeUpdatesFeb2022.pdf (9 pages, 7077582 bytes).
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmti10.pfb>
+Output written on ProbeUpdatesFeb2022.pdf (11 pages, 7110065 bytes).
 PDF statistics:
- 210 PDF objects out of 1000 (max. 8388607)
- 171 compressed objects within 2 object streams
- 47 named destinations out of 1000 (max. 500000)
- 210 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 237 PDF objects out of 1000 (max. 8388607)
+ 193 compressed objects within 2 object streams
+ 49 named destinations out of 1000 (max. 500000)
+ 202 words of extra memory for PDF output out of 10000 (max. 10000000)
 
