@@ -7,9 +7,6 @@
 
 \hypersetup{colorlinks=true,urlcolor=cyan,linkcolor=blue}
 
-\title{MA-224 Exam 1}
-\author{Professor: Brian Frost}
-\date{Spring 2022}
 \pretitle{\begin{center}\huge}
 \posttitle{\end{center}}
 \preauthor{\begin{center}\small}
@@ -29,9 +26,15 @@
 
 \par{A spectral domain optical coherence tomography probe (hereafter ``the probe") was designed by Nathan Lin, and is presented in his PhD thesis. While his preliminary work validated the functionality of this probe, a significant amount of work has been done since his departure to improve the probe's functionality.}
 \par{In particular, I have worked at improving the probe's accessibility, allowing for better interfacing with the ThorImage software, and for real-time B-Scanning at higher quality than what ThorImage produces. I have also produced acquisition software that allows us to process probe-acquired data using the exact same pipeline as standard bulk-optics-acquired data.}
-\par{In this document, I will discuss these advancements at a high level, giving significant detail for new features and leaving older features to previous documentation found on \href{https://github.com/Brian-Frost-LaPlante/LabReports}{my GitHub page}. In particular, for information on the probe, see the Probe Driver Report. For excruciating detail on the theory of OCT background subtraction and the acquisition/processing functions for the probe, see the Fixed-Background Processing Report.}
+\par{In this document, I will discuss these advancements at a high level, giving significant detail for new features and leaving older features to previous documentation found on \href{https://github.com/Brian-Frost-LaPlante/LabReports}{my GitHub page}. In particular, for information on the probe, see the \href{https://github.com/Brian-Frost-LaPlante/LabReports/blob/main/ProbeReports/ProbeDriverReport.pdf}{Probe Driver Report}. For excruciating detail on the theory of OCT background subtraction and the acquisition/processing functions for the probe, see the \href{https://github.com/Brian-Frost-LaPlante/LabReports/blob/main/ProbeReports/Fixed-BackgroundProcessing.pdf}{Fixed-Background Processing Report}.}
 
-\section{The background in OCT processing}
+\par{I will first give a bit of intuition regarding the background used in OCT processing (\hyperlink{bgsection}{Sec. \ref{bgsection}}), specifically as it pertains to use of the ThorImage software. I avoid repetition from my previous report and look only emphasize and explain some phenomena we have recently observed using the probe alongside ThorImage.}
+\par{I will continue with an overview of the circuit's functionality (\hyperlink{circsection}{Sec. \ref{circsection}}). I emphasize key changes since the last report was written, and signal qualities that need to be kept in mind when changing between probes.}
+\par{I will then discuss updates to the control programs used for acquiring and observing data from the probe (\hyperlink{controlprograms}{Sec. \ref{controlprograms}}). I will also discuss the means by which ThorImage can be used with the probe, and how the data displayed in ThorImage ought to be interpreted (\hyperlink{thorimagesection}{Sec. \ref{thorimagesection}}).}
+\par{Finally, I will show some important data taken from the probe which ought to influence how we interpret all future probe-acquired scans. First, we show that the SNR in water is significantly worse than that in air (\hyperlink{SNRsection}{Sec. \ref{SNRsection}}), which is important for \textit{in vivo} experiments where data is taken in the fluid of the cochlea. Lastly, we show an interesting phenomenon wherein despite low SNR, we can achieve informative B-Scans formed of low-quality A-Scans (\hyperlink{BScansection}{Sec. \ref{BScansection}}). We discuss how this fact can be used to extract location information from the time-averaged M-Scan magnitude.}
+
+\section{The background in OCT processing}\label{bgsection}
+\hypertarget{bgsection}{}
 
 \par{}
 
@@ -47,7 +50,8 @@
 
 \par{}
 
-\section{Probe control signals and circuitry}
+\section{Probe control signals and circuitry}\label{circsection}
+\hypertarget{circsection}{}
 
 \par{}
 
@@ -87,7 +91,8 @@
 	\caption{Response at 76 kHz.}
 \end{figure}
 
-\section{Control programs for fixed background}
+\section{Control programs for fixed background}\label{controlprograms}
+\hypertarget{controlprograms}{}
 
 \par{}
 
@@ -139,31 +144,8 @@
 
 \par{}
 
-\section{Signal quality}
-
-\par{}
-
-\subsection{SNR in air vs. water}
-
-\par{}
-
-\begin{figure}[!h]
-	\centering
-	\includegraphics[width=\textwidth]{Data for Probe Writeup/SNRcomp.png}
-	\caption{.}
-\end{figure}
-
-\subsection{B-Scan quality}
-
-\par{}
-
-\begin{figure}[!h]
-	\centering
-	\includegraphics[width=\textwidth]{Data for Probe Writeup/Data 2022-2-17/BScan v AScan.png}
-	\caption{.}
-\end{figure}
-
-\section{Using ThorImage with the probe}
+\section{Using ThorImage with the probe}\label{thorimagesection}
+\hypertarget{thorimagesection}{}
 
 \par{}
 
@@ -178,5 +160,32 @@
 \subsection{The ThorImage ``fake background" trick}
 
 \par{}
+
+\section{Signal quality}
+
+\par{}
+
+\subsection{SNR in air vs. water}\label{SNRsection}
+\hypertarget{SNRsection}{}
+
+\par{}
+
+\begin{figure}[!h]
+	\centering
+	\includegraphics[width=\textwidth]{Data for Probe Writeup/SNRcomp.png}
+	\caption{.}
+\end{figure}
+
+\subsection{B-Scan quality}\label{BScansection}
+\hypertarget{BScansection}{}
+
+\par{}
+
+\begin{figure}[!h]
+	\centering
+	\includegraphics[width=\textwidth]{Data for Probe Writeup/Data 2022-2-17/BScan v AScan.png}
+	\caption{.}
+\end{figure}
+
 
 \end{document}

@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1645488228 "ProbeUpdatesFeb2022.tex" "ProbeUpdatesFeb2022.pdf" "ProbeUpdatesFeb2022" 1645488228
+["pdflatex"] 1645496242 "ProbeUpdatesFeb2022.tex" "ProbeUpdatesFeb2022.pdf" "ProbeUpdatesFeb2022" 1645496242
   "/etc/texmf/web2c/texmf.cnf" 1645139963 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -7,11 +7,13 @@
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr17.tfm" 1136768653 1292 296a67155bdbfc32aa9c636f21e91433 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr8.tfm" 1136768653 1292 21c1c5bfeaebccffdb478fd231a0997d ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr9.tfm" 1136768653 1292 6b21b9c2c7bebb38aa2273f7ca0fb3af ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmti10.tfm" 1136768653 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1248133631 32080 340ef9bf63678554ee606688e7b5339d ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1248133631 35752 024fb6c41858982481f6968b5fc26508 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1248133631 32362 179c33bbf43f19adbb3825bb4e36e57a ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb" 1248133631 32726 0a1aea6fcd6468ee2cf64d891f5c43c8 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb" 1248133631 33993 9b89b85fd2d9df0482bd47194d1d3bf3 ""
+  "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb" 1248133631 37944 359e864bd06cde3b1cf57bb20757fb06 ""
   "/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1461363279 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/share/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty" 1575674566 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
   "/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty" 1576625341 40635 c40361e206be584d448876bba8a64a3b ""
@@ -77,11 +79,11 @@
   "Data for Probe Writeup/ThorImage settings for BScan.PNG" 1645442268 42186 362e39e5ed8a3d8c80001947fd54706c ""
   "Data for Probe Writeup/circuit.jpg" 1645478649 2494451 c4dd59853370433e0039efbc1a0d8844 ""
   "Data for Probe Writeup/spec location.PNG" 1645442924 29835 0e77ae7269577d53bbae0c482399ced2 ""
-  "ProbeUpdatesFeb2022.aux" 1645488228 4621 bcbc449320f4e9e7259e4d7287f428ff "pdflatex"
-  "ProbeUpdatesFeb2022.out" 1645488228 1364 ed62bc02887d845de010a0c55a4218c2 "pdflatex"
-  "ProbeUpdatesFeb2022.tex" 1645488227 4628 f63406d27904540dd7bc903b4ac21744 ""
+  "ProbeUpdatesFeb2022.aux" 1645496242 5086 d5524df544a56628920ca3b7156835b8 "pdflatex"
+  "ProbeUpdatesFeb2022.out" 1645496242 1364 a3e367961b6f8fec8dc881755bc3fdff "pdflatex"
+  "ProbeUpdatesFeb2022.tex" 1645496242 6724 c302682dc3340e3faaca64b8ce78a81d ""
   (generated)
-  "ProbeUpdatesFeb2022.aux"
-  "ProbeUpdatesFeb2022.pdf"
   "ProbeUpdatesFeb2022.log"
+  "ProbeUpdatesFeb2022.pdf"
+  "ProbeUpdatesFeb2022.aux"
   "ProbeUpdatesFeb2022.out"

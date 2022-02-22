@@ -118,11 +118,13 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr9.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT Data for Probe Writeup/10 kHz.jpg
 INPUT ./Data for Probe Writeup/10 kHz.jpg
 INPUT ./Data for Probe Writeup/10 kHz.jpg
+INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
 INPUT Data for Probe Writeup/28 kHz.jpg
 INPUT ./Data for Probe Writeup/28 kHz.jpg
 INPUT ./Data for Probe Writeup/28 kHz.jpg
@@ -150,16 +152,15 @@ INPUT ./Data for Probe Writeup/ShowProbeBScan operation.PNG
 INPUT Data for Probe Writeup/BScan fig update.PNG
 INPUT ./Data for Probe Writeup/BScan fig update.PNG
 INPUT ./Data for Probe Writeup/BScan fig update.PNG
-INPUT Data for Probe Writeup/SNRcomp.png
-INPUT ./Data for Probe Writeup/SNRcomp.png
-INPUT ./Data for Probe Writeup/SNRcomp.png
-INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
-INPUT Data for Probe Writeup/Data 2022-2-17/BScan v AScan.png
-INPUT ./Data for Probe Writeup/Data 2022-2-17/BScan v AScan.png
-INPUT ./Data for Probe Writeup/Data 2022-2-17/BScan v AScan.png
 INPUT Data for Probe Writeup/ThorImage settings for BScan.PNG
 INPUT ./Data for Probe Writeup/ThorImage settings for BScan.PNG
 INPUT ./Data for Probe Writeup/ThorImage settings for BScan.PNG
+INPUT Data for Probe Writeup/SNRcomp.png
+INPUT ./Data for Probe Writeup/SNRcomp.png
+INPUT ./Data for Probe Writeup/SNRcomp.png
+INPUT Data for Probe Writeup/Data 2022-2-17/BScan v AScan.png
+INPUT ./Data for Probe Writeup/Data 2022-2-17/BScan v AScan.png
+INPUT ./Data for Probe Writeup/Data 2022-2-17/BScan v AScan.png
 INPUT ProbeUpdatesFeb2022.aux
 INPUT ./ProbeUpdatesFeb2022.out
 INPUT ./ProbeUpdatesFeb2022.out
@@ -168,3 +169,4 @@ INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb
