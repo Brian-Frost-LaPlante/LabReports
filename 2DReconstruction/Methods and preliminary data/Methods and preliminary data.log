@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.2.20)  8 MAR 2022 17:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.2.20)  10 MAR 2022 11:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -372,80 +372,81 @@ LaTeX Info: Redefining \nameref on input line 22.
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
-<Figures/points.png, id=73, 602.25pt x 197.23688pt>
+<Figures/points.png, id=76, 602.25pt x 197.23688pt>
 File: Figures/points.png Graphic file (type png)
 <use Figures/points.png>
-Package pdftex.def Info: Figures/points.png  used on input line 47.
+Package pdftex.def Info: Figures/points.png  used on input line 55.
 (pdftex.def)             Requested size: 430.00462pt x 140.83066pt.
-<Figures/BScans Points.png, id=77, 374.5995pt x 415.25137pt>
+ [3 <./Figures/points.PNG>]
+<Figures/BScans Points.png, id=90, 374.5995pt x 415.25137pt>
 File: Figures/BScans Points.png Graphic file (type png)
 <use Figures/BScans Points.png>
-Package pdftex.def Info: Figures/BScans Points.png  used on input line 60.
+Package pdftex.def Info: Figures/BScans Points.png  used on input line 74.
 (pdftex.def)             Requested size: 215.0023pt x 238.3368pt.
- [3 <./Figures/points.PNG>] [4 <./Figures/BScans Points.png>] [5]
-<Figures/Run 9 BM displacement across l.png, id=105, 2890.8pt x 1421.31pt>
+ [4 <./Figures/BScans Points.png>] [5]
+<Figures/Run 9 BM displacement across l.png, id=112, 2890.8pt x 1421.31pt>
 File: Figures/Run 9 BM displacement across l.png Graphic file (type png)
 <use Figures/Run 9 BM displacement across l.png>
 Package pdftex.def Info: Figures/Run 9 BM displacement across l.png  used on in
-put line 121.
+put line 135.
 (pdftex.def)             Requested size: 430.00462pt x 211.40894pt.
-<Figures/Aligning BM9 and BM20.png, id=107, 2890.8pt x 1421.31pt>
+<Figures/Aligning BM9 and BM20.png, id=114, 2890.8pt x 1421.31pt>
 File: Figures/Aligning BM9 and BM20.png Graphic file (type png)
 <use Figures/Aligning BM9 and BM20.png>
 Package pdftex.def Info: Figures/Aligning BM9 and BM20.png  used on input line 
-130.
+144.
 (pdftex.def)             Requested size: 430.00462pt x 211.40894pt.
  [6] [7 <./Figures/Run 9 BM displacement across l.png (PNG copy)>]
-<Figures/Aligned OHC9 and OHC20.png, id=121, 2890.8pt x 1421.31pt>
+<Figures/Aligned OHC9 and OHC20.png, id=128, 2890.8pt x 1421.31pt>
 File: Figures/Aligned OHC9 and OHC20.png Graphic file (type png)
 <use Figures/Aligned OHC9 and OHC20.png>
 Package pdftex.def Info: Figures/Aligned OHC9 and OHC20.png  used on input line
- 140.
+ 154.
 (pdftex.def)             Requested size: 430.00462pt x 211.40894pt.
-<Figures/R9P8OHC.png, id=126, 2890.8pt x 1421.31pt>
+<Figures/R9P8OHC.png, id=133, 2890.8pt x 1421.31pt>
 File: Figures/R9P8OHC.png Graphic file (type png)
 <use Figures/R9P8OHC.png>
-Package pdftex.def Info: Figures/R9P8OHC.png  used on input line 150.
+Package pdftex.def Info: Figures/R9P8OHC.png  used on input line 164.
 (pdftex.def)             Requested size: 430.00462pt x 211.40894pt.
  [8 <./Figures/Aligning BM9 and BM20.png (PNG copy)>]
-<Figures/R9P9OHC.png, id=137, 2890.8pt x 1421.31pt>
+<Figures/R9P9OHC.png, id=144, 2890.8pt x 1421.31pt>
 File: Figures/R9P9OHC.png Graphic file (type png)
 <use Figures/R9P9OHC.png>
-Package pdftex.def Info: Figures/R9P9OHC.png  used on input line 156.
+Package pdftex.def Info: Figures/R9P9OHC.png  used on input line 170.
 (pdftex.def)             Requested size: 430.00462pt x 211.40894pt.
-<Figures/R9P10OHC.png, id=140, 2890.8pt x 1421.31pt>
+<Figures/R9P10OHC.png, id=147, 2890.8pt x 1421.31pt>
 File: Figures/R9P10OHC.png Graphic file (type png)
 <use Figures/R9P10OHC.png>
-Package pdftex.def Info: Figures/R9P10OHC.png  used on input line 162.
+Package pdftex.def Info: Figures/R9P10OHC.png  used on input line 176.
 (pdftex.def)             Requested size: 430.00462pt x 211.40894pt.
-<Figures/R9P11OHC.png, id=143, 2890.8pt x 1421.31pt>
+<Figures/R9P11OHC.png, id=150, 2890.8pt x 1421.31pt>
 File: Figures/R9P11OHC.png Graphic file (type png)
 <use Figures/R9P11OHC.png>
-Package pdftex.def Info: Figures/R9P11OHC.png  used on input line 168.
+Package pdftex.def Info: Figures/R9P11OHC.png  used on input line 182.
 (pdftex.def)             Requested size: 430.00462pt x 211.40894pt.
  [9 <./Figures/Aligned OHC9 and OHC20.png (PNG copy)>] [10 <./Figures/R9P8OHC.p
 ng (PNG copy)> <./Figures/R9P9OHC.png (PNG copy)>] [11 <./Figures/R9P10OHC.png 
 (PNG copy)> <./Figures/R9P11OHC.png (PNG copy)>] [12]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 195.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 208.
  [13]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 195.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 208.
 
 (./Methods and preliminary data.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 195.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 195.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 208.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 208.
 Package rerunfilecheck Info: File `"Methods and preliminary data".out' has not 
 changed.
 (rerunfilecheck)             Checksum: C0D6A57B3659F58D2354717ECF05726F;666.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 195.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 208.
  ) 
 Here is how much of TeX's memory you used:
- 6460 strings out of 483107
- 97768 string characters out of 5964630
- 367884 words of memory out of 5000000
- 21340 multiletter control sequences out of 15000+600000
+ 6465 strings out of 483107
+ 97823 string characters out of 5964630
+ 367921 words of memory out of 5000000
+ 21341 multiletter control sequences out of 15000+600000
  535413 words of font info for 35 fonts, out of 8000000 for 9000
  59 hyphenation exceptions out of 8191
- 34i,12n,31p,971b,344s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 34i,12n,31p,980b,353s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texl
@@ -458,11 +459,11 @@ fonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
 /cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti1
 0.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
 
-Output written on "Methods and preliminary data.pdf" (13 pages, 2245338 bytes).
+Output written on "Methods and preliminary data.pdf" (13 pages, 2249088 bytes).
 
 PDF statistics:
- 231 PDF objects out of 1000 (max. 8388607)
- 189 compressed objects within 2 object streams
- 39 named destinations out of 1000 (max. 500000)
+ 239 PDF objects out of 1000 (max. 8388607)
+ 197 compressed objects within 2 object streams
+ 43 named destinations out of 1000 (max. 500000)
  134 words of extra memory for PDF output out of 10000 (max. 10000000)
 

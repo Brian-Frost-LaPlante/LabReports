@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1646777421 "Methods and preliminary data.tex" "Methods and preliminary data.pdf" "Methods and preliminary data" 1646777422
+["pdflatex"] 1646928574 "Methods and preliminary data.tex" "Methods and preliminary data.pdf" "Methods and preliminary data" 1646928575
   "/etc/texmf/web2c/texmf.cnf" 1645139963 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -83,11 +83,11 @@
   "Figures/R9P9OHC.png" 1646668380 268379 2ccb8eaada5bc8deb5ac2112b03b022d ""
   "Figures/Run 9 BM displacement across l.png" 1646666566 186562 4e5ac944b70ae789216e23dedb4d92d8 ""
   "Figures/points.PNG" 1646683119 297843 1e16bef0aaeeca21d123fd370057b742 ""
-  "Methods and preliminary data.aux" 1646777422 8490 697c1e32c14daa8738495e898ad87333 "pdflatex"
-  "Methods and preliminary data.out" 1646777422 666 c0d6a57b3659f58d2354717ecf05726f "pdflatex"
-  "Methods and preliminary data.tex" 1646777420 30987 fe99880fc43c9142661f90e286b01779 ""
+  "Methods and preliminary data.aux" 1646928575 8544 1b8ad4afe9116815fc9fa7e5a176670c "pdflatex"
+  "Methods and preliminary data.out" 1646928575 666 c0d6a57b3659f58d2354717ecf05726f "pdflatex"
+  "Methods and preliminary data.tex" 1646928573 31616 ae5b0365d57bc83deee0799a017d100b ""
   (generated)
-  "Methods and preliminary data.out"
-  "Methods and preliminary data.aux"
-  "Methods and preliminary data.log"
   "Methods and preliminary data.pdf"
+  "Methods and preliminary data.log"
+  "Methods and preliminary data.aux"
+  "Methods and preliminary data.out"
