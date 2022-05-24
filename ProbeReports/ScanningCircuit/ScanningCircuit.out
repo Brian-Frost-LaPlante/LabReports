@@ -1,0 +1,19 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{The Input Waveform}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Scanning Parameters}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Character of the Signal}{section.2}% 4
+\BOOKMARK [1][-]{section.3}{Specifications}{}% 5
+\BOOKMARK [2][-]{subsection.3.1}{Voltage Limit Specifications}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.2}{Frequency Specifications \205 Mechanical Ringing and Scanning Frequency}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.3}{Field of View Specifications}{section.3}% 8
+\BOOKMARK [2][-]{subsection.3.4}{Input and Output Impedance}{section.3}% 9
+\BOOKMARK [1][-]{section.4}{Implementation}{}% 10
+\BOOKMARK [2][-]{subsection.4.1}{Voltage Amplifier}{section.4}% 11
+\BOOKMARK [2][-]{subsection.4.2}{Summing Amplifier}{section.4}% 12
+\BOOKMARK [2][-]{subsection.4.3}{Low-Pass Filter}{section.4}% 13
+\BOOKMARK [2][-]{subsection.4.4}{Unity Gain Buffer}{section.4}% 14
+\BOOKMARK [2][-]{subsection.4.5}{The Complete Schematic and Value Choices}{section.4}% 15
+\BOOKMARK [2][-]{subsection.4.6}{Physical Inplementation}{section.4}% 16
+\BOOKMARK [1][-]{section.5}{Application}{}% 17
+\BOOKMARK [1][-]{section.6}{Conclusion}{}% 18
+\BOOKMARK [1][-]{section.7}{Figures and Tables}{}% 19

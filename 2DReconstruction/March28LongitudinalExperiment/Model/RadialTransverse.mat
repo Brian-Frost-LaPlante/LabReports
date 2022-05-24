@@ -1,0 +1,24 @@
+ABM = 1; # FROM REN 
+AGross = ABM;
+
+ARL_Transverse = 1; # FROM REN
+ADC_Transverse = ARL_OHC;
+
+theta_OHCTransverse = 30; # angle between OHC axis and transverse axis in degrees
+
+phiRL_Transverse = 0; # from REN, in degrees
+phiRL_OHC = 180; # from DEWEY in degrees
+
+phiBM = 0;
+phiGross = phiBM;
+
+Gross = AGross*exp(2*pi*phiGross*1j/360);
+PiezoDC_OHC = ADC_OHC*exp(2*pi*phiDC_OHC*1j/360);
+PiezoRL_OHC = ARL_OHC*exp(2*pi*phiRL_OHC*1j/360);
+
+
+PiezoRL_Transverse = PiezoRL_OHC*cosd(theta_OHCTransverse);
+PiezoRL_Radial = PiezoRL_OHC*sind(theta_OHCTransverse);
+PiezoDC_Transverse = PiezoDC_OHC*cosd(theta_OHCTransverse);
+PiezoDC_Radial = PiezoDC_OHC*sind(theta_OHCTransverse);
+
